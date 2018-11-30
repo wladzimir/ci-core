@@ -1,2 +1,1 @@
-# ci-corehard
-CI/CD workshop at Corehard 2018
+[![Build Status](https://travis-ci.org/wladzimir/ci-core.svg?branch=master)](https://travis-ci.org/wladzimir/ci-core)
